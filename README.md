@@ -5,9 +5,9 @@
 
 [Link to our Axosoft Board](https://mjw2d4.axosoft.com)
 
-[Link to our final video](https://youtu.be/YsG_PyCnH94)
+[Link to our final video](https://www.youtube.com/watch?v=YsG_PyCnH94)
 
-[Link to our Presentation video](https://youtu.be/-XShhHnknY4)
+[Link to our Presentation video](https://www.youtube.com/watch?v=-XShhHnknY4)
 
 > We had in total 3 sprints with an interval of about a week and a half per sprint. 
 
